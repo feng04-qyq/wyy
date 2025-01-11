@@ -32,9 +32,6 @@
       "public"
     ]
   },
-  "engines": {
-    "node": "14.7"  
-  }m,
   "keywords": [
     "网易云音乐",
     "网易云",
@@ -51,6 +48,9 @@
       "eslint --fix",
       "git add"
     ]
+  },
+   "engines": {
+    "node": "14.7"  
   },
   "author": "binaryify",
   "license": "MIT",
